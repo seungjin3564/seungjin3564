@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+my name is kimseungjin
 <!--
 **seungjin3564/seungjin3564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
